@@ -1,2 +1,2 @@
 # Segunda_Atividade
-Implementação de classes em Java I_09_09_2022
+Classes em Java uso de estruturas tipo Array_09_09_2022
